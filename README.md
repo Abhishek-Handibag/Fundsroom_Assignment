@@ -3,7 +3,7 @@ This is a simple stock market simulator made using Django. where user enters the
 
 For Backend: (ONLY IN DJANGO)
 
-<h4> Steps to run locally</h4> <br>
+<h4> Steps to run locally</h4>
 <h5> 
 1. Download The Zip file from code section from this repository or you can clone this repository. <br>
 2. Open Stock_Market_Simulator folder in VS code or any text-editor. <br>
