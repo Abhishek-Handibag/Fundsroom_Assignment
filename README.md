@@ -2,7 +2,7 @@
 
 This is a simple stock market simulator made using Django, where users can enter details about stocks and see how the stock has performed.
 
-## Backend: (ONLY IN DJANGO)
+## Backend: (DJANGO)
 
 ### Steps to run locally
 
@@ -17,5 +17,5 @@ This is a simple stock market simulator made using Django, where users can enter
 
 ### Contact Information
 
-Name: Abhishek Ramdhan Handibag  
+Name: Abhishek Handibag
 Email: abhishek.handibag12@gmail.com
